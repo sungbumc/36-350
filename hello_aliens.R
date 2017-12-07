@@ -1,0 +1,2 @@
+"Hi Aliens, this is a message from a person on Earth. Where are you guys coming from? How are you receiving this message? What do you think about Earth?"
+"This is the final project of a class at Carnegie Mellon. The weather is really bad today. It's really cold."
